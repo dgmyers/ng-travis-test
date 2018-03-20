@@ -16,4 +16,4 @@ before_script:
 install:
   - npm i
 script:
-  - npm e2e
+  - npm run e2e
